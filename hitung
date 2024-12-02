@@ -1,0 +1,38 @@
+import math
+
+
+
+def l_tambah(bil1, bil2):
+
+    hasil=bil1+bil2
+
+    print("hasil tambah dari",bil1,"+",bil2,"=",hasil)
+
+    
+
+def l_kali(bil1, bil2):
+
+    hasil=bil1*bil2
+
+    print("hasil kali dari",bil1,"*",bil2,"=",hasil)
+
+    
+
+def l_kurang(bil1, bil2):
+
+    hasil=bil1-bil2
+
+    print("hasil kurang dari",bil1,"-",bil2,"=",hasil)
+
+        
+
+def l_pangkat(bil1, bil2):
+
+    hasil=math.pow(bil1,bil2)
+
+    print("hasil pangkat dari",bil1,"^",bil2,"=",hasil)
+
+    
+
+
+
