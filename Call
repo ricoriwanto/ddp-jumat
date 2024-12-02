@@ -1,0 +1,25 @@
+import Bangun_datar
+
+Bangun_datar.l_persegi(5)
+Bangun_datar.l_persegi_panjang(10,5)
+Bangun_datar.l_persegi_panjang(10,5)
+Bangun_datar.l_segitiga(10,5)
+Bangun_datar.l_lingkaran(1)
+Bangun_datar.l_jajargenjang(10,5)
+
+
+import Bangun_ruang
+Bangun_ruang.l_balok(4,9,2)
+Bangun_ruang.l_Kubus(6)
+Bangun_ruang.l_limas_segitiga(4,5)
+Bangun_ruang.l_prisma(3,4)
+Bangun_ruang.l_tabung(2,2,3)
+
+
+import hitung
+hitung.l_tambah(2,3)
+hitung.l_kali(3,4)
+hitung.l_kurang(4,5)
+hitung.l_pangkat(2,3)
+
+
